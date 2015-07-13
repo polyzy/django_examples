@@ -1,0 +1,8 @@
+€}q(Urango.tests]Urango.migrations.0001_initial]qU	MigrationqaU
+tango.urls]qUurlpatternsqaUrango.migrations]Urango.admin]q(UCategoryAdminqU	PageAdminqeUrango.views]q	(Uindexq
+UaboutqUcategoryqeUmanage]Utango]Upopulate_rango]q(UpopulateqUadd_catqUadd_pageqeU
+tango.wsgi]qUapplicationqaU(rango.migrations.0002_auto_20150619_1637]qhaUrango.models]q(UCategoryqUPageqeUrango]Ushutil]q(UcopyfileqUignore_patternsqUcopytreeqUget_archive_formatsqUcopyfileobjqUregister_archive_formatqUcopymodeqUmake_archiveqUmoveq Uunregister_archive_formatq!Urmtreeq"UErrorq#Ucopyq$U	ExecErrorq%Ucopy2q&USpecialFileErrorq'Ucopystatq(UWindowsErrorq)eUos]q*(Upopen4q+Uexecleq,Upopen3q-USEEK_CURq.Uspawnlpq/Uexeclpq0Uenvironq1Uspawnvpq2Uspawnlq3Uexecvpq4Umakedirsq5Ulinesepq6UP_WAITq7Uspawnvq8Uspawnveq9Uexecvpeq:Uunsetenvq;USEEK_SETq<Ugetenvq=Upopen2q>Uwalkq?Uspawnleq@UexeclqAUnameqBUSEEK_ENDqCUspawnlpeqDU	P_NOWAITOqEUP_NOWAITqFU
+removedirsqGUrenamesqHUspawnvpeqIUexeclpeqJeU
+rango.urls]qKhaUtango.settings]qL(UTEMPLATE_DIRSqMUUSE_L10NqNULANGUAGE_CODEqOUUSE_TZqPUUSE_I18NqQU	DATABASESqRU	TIME_ZONEqSU
+STATIC_URLqTUROOT_URLCONFqUUTEMPLATE_DEBUGqVUWSGI_APPLICATIONqWUMIDDLEWARE_CLASSESqXUDEBUGqYUALLOWED_HOSTSqZU
+SECRET_KEYq[UINSTALLED_APPSq\USTATICFILES_DIRSq]UBASE_DIRq^eU#rango.migrations.0003_category_slug]q_hau.

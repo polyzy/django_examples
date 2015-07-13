@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<form class="pure-form pure-form-stacked pure-form-aligned" method="post" action=".">
+	{% csrf_token %}
+	<fieldset>
+		<legend>注册</legend>
+		<label for="username">用户名</label>
+		<input id="username" name="username" type="text" placeholder="请输入用户名">
+		
+		<label for="password">密码</label>
+		<input id="password" name="password" type="password" placeholder="请输入密码">
+		<label for="email">邮箱</label>
+		<input id="email" name="email" type="email" placeholder="请输入邮箱">
+
+		<button type="submit" class="pure-button pure-button-primary">注册</button>
+	</fieldset>
+</form>
+{%endblock%}
